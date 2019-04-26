@@ -1,0 +1,22 @@
+{
+  "name": "avanzado-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon -e hbs server.js"
+  },
+  "author": "giovanny garzon",
+  "license": "ISC",
+  "dependencies": {
+    "babelify-express": "^0.1.7",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "express-session": "^1.16.1",
+    "hbs": "^4.0.4",
+    "http-errors": "^1.7.2",
+    "morgan": "^1.9.1",
+    "node-sass-middleware": "^0.11.0",
+    "serve-favicon": "^2.5.0"
+  }
+}

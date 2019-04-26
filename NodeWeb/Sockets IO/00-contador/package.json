@@ -1,0 +1,14 @@
+{
+  "name": "contador-conexiones",
+  "version": "1.0.0",
+  "description": "contador de conexiones activas con socket io",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon -e html app"
+  },
+  "author": "giovanny garzon",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  }
+}

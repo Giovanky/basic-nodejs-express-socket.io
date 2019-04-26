@@ -1,0 +1,15 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "chat con express y socket.io",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon -e html,css app"
+  },
+  "author": "giovanny garzon <giovankyandres@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
